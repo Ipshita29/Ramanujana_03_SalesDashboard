@@ -167,11 +167,12 @@ Applying these recommendations can improve profitability by **10–20%** through
 ## Project Structure
 
 
+```
 Superstore_data/
 │
 ├── data/
-│ ├── cleaned_superstore.csv
-│ └── Global_Superstore.csv
+│   ├── cleaned_superstore.csv
+│   └── Global_Superstore.csv
 │
 ├── superstore_cleaning.ipynb
 ├── superstore_queries.sql
@@ -183,6 +184,7 @@ Superstore_data/
 ├── yearly_trend.png
 │
 └── README.md
+```
 
 
 ---
